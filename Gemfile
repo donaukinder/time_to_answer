@@ -7,7 +7,7 @@ ruby '2.7.0'
 gem 'rails', '~> 5.2.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
-gem 'bundler', '~> 2.2', '>= 2.2.28'# Use Puma as the app server
+gem 'bundler', '>= 2.2.28'# Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
